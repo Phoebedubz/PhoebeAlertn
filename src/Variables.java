@@ -38,8 +38,8 @@ System.out.println("*64 bit - longOne = "+longOne+";\t*");
     System.out.println("*\t\t\t\t\t\t\t\t*");
     System.out.println("*           other types\t\t\t*");
     System.out.println("*\t\t\t\t\t\t\t\t*");
-    System.out.println("*booleanOne = "+booleanOne+";\t\t\t\t*");
-    System.out.println("*stringOne = "+stringOne+";\t\t*");
+    System.out.println("*booleanOne = "+booleanOne+"\t\t\t\t*");
+    System.out.println("*stringOne = "+stringOne+"\t\t*");
     System.out.println("\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\");
 
 }
